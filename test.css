@@ -1,0 +1,17 @@
+.name{
+ font-family:cursive;
+ color:aqua;
+ text-align: center;
+ background-color: darkturquoise;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+.image2{
+    padding-left: 700px;
+}
+.image3{
+    padding-left: 900px;
+}
+body{
+   background-color: rgb(24,155,204);
+}
